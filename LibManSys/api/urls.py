@@ -11,8 +11,3 @@ urlpatterns = [
     ]
 
 
-# #class based views urls
-# urlpatterns+=[
-#     path('listcreate/', views.ListCreateView.as_view()), #urls for getall and post method
-#     path('getupdatedelete/<int:pk>/', views.RetriveUpdateDeleteView.as_view()), #urls for get,put,delete
-# ]
